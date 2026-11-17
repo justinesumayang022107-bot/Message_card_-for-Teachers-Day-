@@ -18,10 +18,4 @@ A polished, responsive Teachers’ Day letter dedicated to Randy Bello from Just
 - **Print / Save as PDF** button
 
 ## How to use
-
-1. Extract the project ZIP.
-2. Keep all five project files in the same folder.
-3. Open `index.html` in a modern web browser.
-4. Select **Print / Save as PDF** to print the letter or save it as a PDF.
-
-The page uses Google Fonts when an internet connection is available and falls back to system fonts otherwise.
+click here👉: https://justinesumayang022107-bot.github.io/Message_card_-for-Teachers-Day-/
